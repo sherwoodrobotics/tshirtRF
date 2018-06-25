@@ -1,3 +1,5 @@
+//Created by Kyle DuFrene, June 12, 2018
+
 #ifndef RGB_h
 #define RGB_h
 

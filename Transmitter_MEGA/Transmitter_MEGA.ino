@@ -1,3 +1,5 @@
+// Created by Kyle DuFrene, June 12, 2018
+
 #include <RGB.h> //use setColor(boolean red, boolean green...
 RGB led6(23, 25, 27);
 RGB led5(29, 31, 33);

@@ -14,3 +14,6 @@ The transmitter is much simpler, as it utilizes an arduino MEGA, with multiple s
 
 
 Also, fun fact. You may have noticed the receiver was spelled reciever everywhere. Deal with it.
+
+
+All of this awesomeness? Created by Kyle DuFrene, June 12, 2018.

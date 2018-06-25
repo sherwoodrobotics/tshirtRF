@@ -1,3 +1,5 @@
+// Created by Kyle DuFrene, June 12, 2018
+
 #include <Arduino.h>
 #include <Servo.h>
 #include <elapsedMillis.h>
